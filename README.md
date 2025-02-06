@@ -25,6 +25,6 @@
     3. F1-score (macro)
 
 ## Используемые инструменты и библиотеки
-Для реализации этого проекта используются *Jupyter Notebook*, *Python*, *Pillow*, *Albumentations* для обработки изображений и *Ultaralytics*. Необходимые пакеты с версиями лежит в файле *requirement.txt* 
+Для реализации этого проекта используются *Jupyter Notebook*, *Python*, *Pillow*, *Albumentations* для обработки изображений и *Ultaralytics*. Необходимые пакеты с версиями лежит в файле *requirement_cv.txt* 
 
 
